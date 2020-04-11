@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/16.1/labs/lab4a
+Ereg16
+Z1 w1506468688
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8reg16.vhd
+Z6 Freg16.vhd
+l0
+L5
+V@Mfo=UcAWDCA7O=fAJSK71
+!s100 dCkMRgzdFRzJZGK^XXFQi3
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1507077030
+!i10b 1
+Z9 !s108 1507077030.000000
+Z10 !s90 -reportprogress|300|reg16.vhd|reg16_tb.vhd|
+Z11 !s107 reg16_tb.vhd|reg16.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Alogic
+R2
+R3
+R4
+Z13 DEx4 work 5 reg16 0 22 @Mfo=UcAWDCA7O=fAJSK71
+l13
+L12
+Z14 V`@nb[NF9DS4jRFR[f1HcS1
+Z15 !s100 XGYT][XMLZQSaJjdI84Oo1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Ereg16_tb
+Z16 w1393829720
+R2
+R3
+R4
+R0
+Z17 8reg16_tb.vhd
+Z18 Freg16_tb.vhd
+l0
+L24
+V9iRL2C^CB7ehk:3cH7Sdm1
+!s100 IiOin8=@9;9iE2PQQSRn;2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Astimulus
+R2
+R3
+R4
+Z19 DEx4 work 8 reg16_tb 0 22 9iRL2C^CB7ehk:3cH7Sdm1
+l43
+L27
+Z20 V6@hY7b==SPZ;[k[zTNE?D1
+Z21 !s100 @B3eaiCel4Xge=C>c8RaH3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12

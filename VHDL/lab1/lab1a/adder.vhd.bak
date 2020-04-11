@@ -1,0 +1,15 @@
+LIBRARy IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.NUMERIC_STD.ALL;
+
+ENTITY add_bit IS
+PORT ( dataa, datab : IN UNSIGNED (15 downto 0);
+	sum : OUT UNSIGNED (15 downto 0));
+END ENTITY add_bit
+
+ARCHITECTURE logic OF add_bit IS 
+  
+BEGIN
+sum <= dataa + datab;
+END ARCHITECTURE logic;
+

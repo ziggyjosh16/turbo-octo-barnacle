@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/16.1/labs/lab2b
+Eshifter
+Z1 w1505876631
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8shifter.vhd
+Z6 Fshifter.vhd
+l0
+L5
+V8ijO]F_aRa0C9`>f0oS;91
+!s100 bU2j122ZVSTeViOCV1T8<1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1505876725
+!i10b 1
+Z9 !s108 1505876725.000000
+Z10 !s90 -reportprogress|300|shifter.vhd|shifter_tb.vhd|
+Z11 !s107 shifter_tb.vhd|shifter.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Alogic
+R2
+R3
+R4
+DEx4 work 7 shifter 0 22 8ijO]F_aRa0C9`>f0oS;91
+l13
+L12
+VVea?^Z6AL=zXTHCbX>=Gh1
+!s100 ;la>m28mBE^XVzYo`7jhR3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Eshifter_tb
+Z13 w1393826356
+R2
+R3
+R4
+R0
+Z14 8shifter_tb.vhd
+Z15 Fshifter_tb.vhd
+l0
+L25
+V<oWZ[4iEO[UJeajUMLI^C0
+!s100 _2K:0D]BNHfUge^aAlT:53
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Astimulus
+R2
+R3
+R4
+DEx4 work 10 shifter_tb 0 22 <oWZ[4iEO[UJeajUMLI^C0
+l44
+L28
+V[P<obmUzO=hD_0LQLmbHN1
+!s100 ;b25S301XcAYd@YS>24NC3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12

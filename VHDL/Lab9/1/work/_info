@@ -1,0 +1,205 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/16.1/labs/Lab9/1
+Ede1_top
+Z1 w1513131774
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8de1_top.vhd
+Z6 Fde1_top.vhd
+l0
+L6
+V__ZFcF[DKiR<@KljX?51V2
+!s100 d6`Gi7hOjSEEQob;Pj@241
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1513132525
+!i10b 1
+Z9 !s108 1513132525.000000
+Z10 !s90 -reportprogress|300|de1_top.vhd|
+Z11 !s107 de1_top.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Astruct
+R2
+R3
+R4
+DEx4 work 7 de1_top 0 22 __ZFcF[DKiR<@KljX?51V2
+l88
+L32
+V6Z>@miUn1TVhTgA>V9OY_3
+!s100 Q<UWNaSK62Cla7_T^K]G41
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Ede1_top_tb
+Z13 w1460310394
+R2
+R3
+R4
+R0
+Z14 8de1_top_vhdl_tb.vhd
+Z15 Fde1_top_vhdl_tb.vhd
+l0
+L5
+VcIUaD5iY^N8c5OEND_eLL3
+!s100 ?^<C5O]MhZUCTb:i]MzRU3
+R7
+32
+R8
+!i10b 1
+R9
+Z16 !s90 -reportprogress|300|de1_top_vhdl_tb.vhd|
+Z17 !s107 de1_top_vhdl_tb.vhd|
+!i113 1
+R12
+Abehav
+R2
+R3
+R4
+Z18 DEx4 work 10 de1_top_tb 0 22 cIUaD5iY^N8c5OEND_eLL3
+l47
+L8
+Z19 V0d6`bmO<R<Mz7DMjC0l@A2
+Z20 !s100 :QzB[8FOXl:An27Dn0[;T3
+R7
+32
+R8
+!i10b 1
+R9
+R16
+R17
+!i113 1
+R12
+Egen_counter
+Z21 w1458631332
+R2
+R3
+R4
+R0
+Z22 8gen_counter.vhd
+Z23 Fgen_counter.vhd
+l0
+L5
+Vdn<WOoajlVeELEdWB3Fi90
+!s100 o>2laMaBGEW5WGg86=Rn:0
+R7
+32
+R8
+!i10b 1
+R9
+Z24 !s90 -reportprogress|300|gen_counter.vhd|
+Z25 !s107 gen_counter.vhd|
+!i113 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 11 gen_counter 0 22 dn<WOoajlVeELEdWB3Fi90
+l26
+L22
+V9]UEO]I1bDcV3AU1bSP>N3
+!s100 d0?>FW^S4MTFXLg0_^N:?3
+R7
+32
+R8
+!i10b 1
+R9
+R24
+R25
+!i113 1
+R12
+Eram32x4
+Z26 w1513125716
+Z27 DPx9 altera_mf 20 altera_mf_components 0 22 m2K6F5NmQKkFhQa^^]15g3
+R3
+R4
+R0
+Z28 8ram32x4.vhd
+Z29 Fram32x4.vhd
+l0
+L43
+VN_T`kJR]@mH3ABd;4zJ`l0
+!s100 3<Y4N>RfzVJ`2TWR<S_A?3
+R7
+32
+R8
+!i10b 1
+R9
+Z30 !s90 -reportprogress|300|ram32x4.vhd|
+Z31 !s107 ram32x4.vhd|
+!i113 1
+R12
+Asyn
+R27
+R3
+R4
+DEx4 work 7 ram32x4 0 22 N_T`kJR]@mH3ABd;4zJ`l0
+l59
+L55
+V7=DfFHz8NMMI6nUg9VoQV2
+!s100 Fjo?Z[gY>V6?^HQWRS]6f1
+R7
+32
+R8
+!i10b 1
+R9
+R30
+R31
+!i113 1
+R12
+Eseven_segment_cntrl
+Z32 w1460310118
+R2
+R3
+R4
+R0
+Z33 8seven_segment_cntrl.vhd
+Z34 Fseven_segment_cntrl.vhd
+l0
+L24
+V@hhDWW]VSe;L7MJWNH:CQ3
+!s100 QWl4KoIcTOL:W2NFiZj3O3
+R7
+32
+R8
+!i10b 1
+Z35 !s108 1513132524.000000
+Z36 !s90 -reportprogress|300|seven_segment_cntrl.vhd|
+Z37 !s107 seven_segment_cntrl.vhd|
+!i113 1
+R12
+Alogic
+R2
+R3
+R4
+DEx4 work 19 seven_segment_cntrl 0 22 @hhDWW]VSe;L7MJWNH:CQ3
+l39
+L37
+VT8=YKcS^9WzCA=BK=?2fk1
+!s100 PRc_40E[nf<XQ5:NREWR_0
+R7
+32
+R8
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R12

@@ -1,0 +1,9 @@
+
+State Machine - |de1_top|current_state
+Name current_state.night_mode current_state.ew_l current_state.ew_s current_state.ns_l current_state.ns_s current_state.break_state 
+current_state.break_state 0 0 0 0 0 0 
+current_state.ns_s 0 0 0 0 1 1 
+current_state.ns_l 0 0 0 1 0 1 
+current_state.ew_s 0 0 1 0 0 1 
+current_state.ew_l 0 1 0 0 0 1 
+current_state.night_mode 1 0 0 0 0 1 

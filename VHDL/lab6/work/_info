@@ -1,0 +1,127 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/16.1/labs/Lab6/DE1_VHDL_Lab6_restored
+Ede1_top
+Z1 w1508624954
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8de1_top.vhd
+Z6 Fde1_top.vhd
+l0
+L6
+VL9g7GdRcmUg3?9jCajKf41
+!s100 DnK9YU7K7Kzf@;1Rzkl:I0
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1508641799
+!i10b 1
+Z9 !s108 1508641799.000000
+Z10 !s90 -reportprogress|300|de1_top.vhd|
+Z11 !s107 de1_top.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Astruct
+R2
+R3
+R4
+DEx4 work 7 de1_top 0 22 L9g7GdRcmUg3?9jCajKf41
+l99
+L41
+VF>iN@6hmb<PJ?Y8_A^MP82
+!s100 0klL[f]c^9AR]0@eX@U8E3
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Ede1_top_lab6_tb
+Z13 w1508641786
+R2
+R3
+R4
+R0
+Z14 8de1_top_vhdl_tb.vhd
+Z15 Fde1_top_vhdl_tb.vhd
+l0
+L5
+Vgk3<^n`fl]iE]WaYON8QV3
+!s100 ^45WbTl8^D7k6QmMaZCka0
+R7
+32
+R8
+!i10b 1
+R9
+Z16 !s90 -reportprogress|300|de1_top_vhdl_tb.vhd|
+Z17 !s107 de1_top_vhdl_tb.vhd|
+!i113 1
+R12
+Abehav
+R2
+R3
+R4
+Z18 DEx4 work 15 de1_top_lab6_tb 0 22 gk3<^n`fl]iE]WaYON8QV3
+l43
+L8
+Vi3X1UYzLbT0I?4hCCO1`G0
+!s100 g`<[LgaLJGdCb3P0d^RNM0
+R7
+32
+R8
+!i10b 1
+R9
+R16
+R17
+!i113 1
+R12
+Eseven_segment_cntrl
+Z19 w1467851260
+R2
+R3
+R4
+R0
+Z20 8seven_segment_cntrl.vhd
+Z21 Fseven_segment_cntrl.vhd
+l0
+L24
+V@hhDWW]VSe;L7MJWNH:CQ3
+!s100 QWl4KoIcTOL:W2NFiZj3O3
+R7
+32
+R8
+!i10b 1
+R9
+Z22 !s90 -reportprogress|300|seven_segment_cntrl.vhd|
+Z23 !s107 seven_segment_cntrl.vhd|
+!i113 1
+R12
+Alogic
+R2
+R3
+R4
+DEx4 work 19 seven_segment_cntrl 0 22 @hhDWW]VSe;L7MJWNH:CQ3
+l39
+L37
+VLnJ24;:A?LQ[?bCI]QWW83
+!s100 hdTD2;<SSff5jT1_Wbg8a1
+R7
+32
+R8
+!i10b 1
+R9
+R22
+R23
+!i113 1
+R12

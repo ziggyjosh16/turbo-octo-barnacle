@@ -1,0 +1,88 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/16.1/labs/lab1a
+Eadder
+Z1 w1505870145
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8adder.vhd
+Z6 Fadder.vhd
+l0
+L5
+V1:jB;PXiLbZS0<RW><;7Q1
+!s100 ^3b]]`Z_Zz0Y=z9m>oN:J1
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1505870306
+!i10b 1
+Z9 !s108 1505870306.000000
+Z10 !s90 -reportprogress|300|adder.vhd|adder_tb.vhd|
+Z11 !s107 adder_tb.vhd|adder.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Alogic
+R2
+R3
+R4
+DEx4 work 5 adder 0 22 1:jB;PXiLbZS0<RW><;7Q1
+l12
+L10
+Vlk@P6ca`]BAZ2;3kDPnW^3
+!s100 YIi7lAj6AoPIDF<67lH<W2
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Eadder_tb
+Z13 w1393823442
+R2
+R3
+R4
+R0
+Z14 8adder_tb.vhd
+Z15 Fadder_tb.vhd
+l0
+L24
+V@ehRa6SUk_bS>X0W6>Loh2
+!s100 _hWRDKijz=akSSJKkU3X93
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Astimulus
+R2
+R3
+R4
+DEx4 work 8 adder_tb 0 22 @ehRa6SUk_bS>X0W6>Loh2
+l40
+L27
+V_SfzW<8@5OE6WaN@HA4Oc3
+!s100 LNPJPOUoAj=OGSoVZeM480
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12

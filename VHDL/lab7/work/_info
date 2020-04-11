@@ -1,0 +1,166 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/16.1/labs/lab7
+Ede1_top
+Z1 w1511197494
+Z2 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+Z3 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z4 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z5 8de1_top.vhd
+Z6 Fde1_top.vhd
+l0
+L6
+VKUX=7CbR1kkYh4z1H>@[U2
+!s100 McX:94[MnKOE2o8[hnY;E0
+Z7 OV;C;10.5b;63
+32
+Z8 !s110 1511198452
+!i10b 1
+Z9 !s108 1511198451.000000
+Z10 !s90 -reportprogress|300|de1_top.vhd|
+Z11 !s107 de1_top.vhd|
+!i113 1
+Z12 tExplicit 1 CvgOpt 0
+Astruct
+R2
+R3
+R4
+DEx4 work 7 de1_top 0 22 KUX=7CbR1kkYh4z1H>@[U2
+l72
+L32
+V569BIYzICV=?<J4@OaHUK0
+!s100 0KzVHP65gazIT]V@3RXd;1
+R7
+32
+R8
+!i10b 1
+R9
+R10
+R11
+!i113 1
+R12
+Ede1_top_tb
+Z13 w1511197668
+R2
+R3
+R4
+R0
+Z14 8de1_top_vhdl_tb.vhd
+Z15 Fde1_top_vhdl_tb.vhd
+l0
+L5
+VcIUaD5iY^N8c5OEND_eLL3
+!s100 ?^<C5O]MhZUCTb:i]MzRU3
+R7
+32
+R8
+!i10b 1
+Z16 !s108 1511198452.000000
+Z17 !s90 -reportprogress|300|de1_top_vhdl_tb.vhd|
+Z18 !s107 de1_top_vhdl_tb.vhd|
+!i113 1
+R12
+Abehav
+R2
+R3
+R4
+Z19 DEx4 work 10 de1_top_tb 0 22 cIUaD5iY^N8c5OEND_eLL3
+l48
+L8
+Z20 VLnSc5CSf0E;?[i?VXUBBW1
+Z21 !s100 E?KHmagYMYLkXVM=MFJ4<0
+R7
+32
+R8
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R12
+Egen_counter
+Z22 w1458620532
+R2
+R3
+R4
+R0
+Z23 8gen_counter.vhd
+Z24 Fgen_counter.vhd
+l0
+L5
+Vdn<WOoajlVeELEdWB3Fi90
+!s100 o>2laMaBGEW5WGg86=Rn:0
+R7
+32
+Z25 !s110 1511198451
+!i10b 1
+R9
+Z26 !s90 -reportprogress|300|gen_counter.vhd|
+Z27 !s107 gen_counter.vhd|
+!i113 1
+R12
+Artl
+R2
+R3
+R4
+DEx4 work 11 gen_counter 0 22 dn<WOoajlVeELEdWB3Fi90
+l26
+L22
+V9]UEO]I1bDcV3AU1bSP>N3
+!s100 d0?>FW^S4MTFXLg0_^N:?3
+R7
+32
+R25
+!i10b 1
+R9
+R26
+R27
+!i113 1
+R12
+Eseven_segment_cntrl
+Z28 w1510704697
+R2
+R3
+R4
+R0
+Z29 8seven_segment_cntrl.vhd
+Z30 Fseven_segment_cntrl.vhd
+l0
+L24
+V@hhDWW]VSe;L7MJWNH:CQ3
+!s100 QWl4KoIcTOL:W2NFiZj3O3
+R7
+32
+R25
+!i10b 1
+R9
+Z31 !s90 -reportprogress|300|seven_segment_cntrl.vhd|
+Z32 !s107 seven_segment_cntrl.vhd|
+!i113 1
+R12
+Alogic
+R2
+R3
+R4
+DEx4 work 19 seven_segment_cntrl 0 22 @hhDWW]VSe;L7MJWNH:CQ3
+l39
+L37
+V^oBgOjoR=0[cKB>z<D<eb2
+!s100 4OW5WZP?z5[bhAHczHa9A1
+R7
+32
+R25
+!i10b 1
+R9
+R31
+R32
+!i113 1
+R12

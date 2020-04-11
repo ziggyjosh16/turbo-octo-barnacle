@@ -1,0 +1,19 @@
+LIBRARY IEEE;
+USE IEEE.STD_LOGIC_1164.ALL;
+USE IEEE.NUMERIC_STD.ALL;
+
+ENTITY mux4 IS
+PORT ( input : IN UNSIGNED (3 downto 0);
+	seg_a, seg_b, seg_c, seg_d, seg_e, seg_f, seg_g : OUT UNSIGNED);
+END ENTITY mux4;
+
+ARCHITECTURE logic OF mux4 IS 
+BEGIN
+	PROCESS (mux_in_a, mux_in_b, mux_sel)
+	
+	BEGIN
+	IF mux_sel = '0' THEN mux_out <=mux_in_a;
+	ELSE mux_out <= mux_in_b;
+	END IF;
+	END PROCESS;
+END ARCHITECTURE logic;

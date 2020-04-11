@@ -1,0 +1,377 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/intelFPGA_lite/16.1/labs/Lab10/timing_lab_quartus_16/simulation
+Eclocka_fifo
+Z1 w1513730735
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8../ip_megawizards/clocka_fifo.vhd
+Z5 F../ip_megawizards/clocka_fifo.vhd
+l0
+L43
+VDnC<JmA]iEQQJXzhV8I5G1
+!s100 ]zRgEo50L^cGnDgZNmOal1
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1513856739
+!i10b 1
+Z8 !s108 1513856739.000000
+Z9 !s90 -reportprogress|300|-work|work|../ip_megawizards/clocka_fifo.vhd|
+Z10 !s107 ../ip_megawizards/clocka_fifo.vhd|
+!i113 1
+Z11 o-work work
+Z12 tExplicit 1 CvgOpt 0
+Asyn
+R2
+R3
+DEx4 work 11 clocka_fifo 0 22 DnC<JmA]iEQQJXzhV8I5G1
+l99
+L60
+Vezch3kIjR5MRl_]YUY0FB3
+!s100 Bfch0fVYz[C4cVMcQeZ2H1
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Eclocka_pll
+Z13 w1513730969
+R2
+R3
+Z14 DPx12 altera_lnsim 23 altera_lnsim_components 0 22 3L]34bNSPL@[RD2AeKH]S3
+R0
+Z15 8../ip_megawizards/clocka_pll_sim/clocka_pll.vho
+Z16 F../ip_megawizards/clocka_pll_sim/clocka_pll.vho
+l0
+L34
+V>a1LCl:Ia[9?A:4jzjOM?0
+!s100 T8NbHbo4WoM4AzQo7aB@k2
+R6
+32
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-work|work|../ip_megawizards/clocka_pll_sim/clocka_pll.vho|
+Z18 !s107 ../ip_megawizards/clocka_pll_sim/clocka_pll.vho|
+!i113 1
+R11
+R12
+Artl
+R2
+R3
+R14
+DEx4 work 10 clocka_pll 0 22 >a1LCl:Ia[9?A:4jzjOM?0
+l51
+L44
+VEjK3QkRioSAo]LnOooOX52
+!s100 =b>4IoKW<mQ0JSzhmn3KM3
+R6
+32
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12
+Eclockb_pll
+Z19 w1513737141
+R2
+R3
+R14
+R0
+Z20 8../ip_megawizards/clockb_pll_sim/clockb_pll.vho
+Z21 F../ip_megawizards/clockb_pll_sim/clockb_pll.vho
+l0
+L34
+V>@FkfNNUl8kb:kSXQ31W81
+!s100 52AGH[E?n3OfLb58?P]Lj1
+R6
+32
+R7
+!i10b 1
+R8
+Z22 !s90 -reportprogress|300|-work|work|../ip_megawizards/clockb_pll_sim/clockb_pll.vho|
+Z23 !s107 ../ip_megawizards/clockb_pll_sim/clockb_pll.vho|
+!i113 1
+R11
+R12
+Artl
+R2
+R3
+R14
+DEx4 work 10 clockb_pll 0 22 >@FkfNNUl8kb:kSXQ31W81
+l51
+L44
+V:5h=X_0?^@QoI2HKI`4UP3
+!s100 CnGGzD=;f;jLTD3oT@D`]3
+R6
+32
+R7
+!i10b 1
+R8
+R22
+R23
+!i113 1
+R11
+R12
+Edata_sink
+Z24 w1460837904
+Z25 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R0
+Z26 8../vhdl_source/data_sink.vhd
+Z27 F../vhdl_source/data_sink.vhd
+l0
+L5
+VTbIY44Ad2CIa`WzoV77DP0
+!s100 ;1n<YK>Gb>kAYUh1HinA_2
+R6
+32
+Z28 !s110 1513856740
+!i10b 1
+Z29 !s108 1513856740.000000
+Z30 !s90 -reportprogress|300|-work|work|../vhdl_source/data_sink.vhd|
+Z31 !s107 ../vhdl_source/data_sink.vhd|
+!i113 1
+R11
+R12
+Artl
+R25
+R2
+R3
+DEx4 work 9 data_sink 0 22 TbIY44Ad2CIa`WzoV77DP0
+l28
+L15
+V3lzE5n]0]4jKPLhDm@_iH2
+!s100 `6a]zG=M8aH9jG]ai2iV]0
+R6
+32
+R28
+!i10b 1
+R29
+R30
+R31
+!i113 1
+R11
+R12
+Edata_source
+Z32 w1460839209
+R25
+R2
+R3
+R0
+Z33 8../vhdl_source/data_source.vhd
+Z34 F../vhdl_source/data_source.vhd
+l0
+L6
+VZDdfzfe1=Ykg7Q;5H^0aN2
+!s100 Q6N4cAX3bcP8:>nD7J:1J2
+R6
+32
+R28
+!i10b 1
+R29
+Z35 !s90 -reportprogress|300|-work|work|../vhdl_source/data_source.vhd|
+Z36 !s107 ../vhdl_source/data_source.vhd|
+!i113 1
+R11
+R12
+Artl
+R25
+R2
+R3
+DEx4 work 11 data_source 0 22 ZDdfzfe1=Ykg7Q;5H^0aN2
+l33
+L18
+VEP3^0:bE;6UE3eTR[CW2X1
+!s100 a_lLEQSBBlok:]P^N1Edo3
+R6
+32
+R28
+!i10b 1
+R29
+R35
+R36
+!i113 1
+R11
+R12
+Ede1_soc_top
+Z37 w1460839600
+R25
+R2
+R3
+R0
+Z38 8../vhdl_source/de1_soc_top.vhd
+Z39 F../vhdl_source/de1_soc_top.vhd
+l0
+L5
+VVd9D?Q@Yc_mbIODZ0FJWk0
+!s100 SEJnjJ?@QBK2BhYPD;RS@2
+R6
+32
+R28
+!i10b 1
+R29
+Z40 !s90 -reportprogress|300|-work|work|../vhdl_source/de1_soc_top.vhd|
+Z41 !s107 ../vhdl_source/de1_soc_top.vhd|
+!i113 1
+R11
+R12
+Astruct
+R25
+R2
+R3
+DEx4 work 11 de1_soc_top 0 22 Vd9D?Q@Yc_mbIODZ0FJWk0
+l120
+L19
+VQEQlM4=ki1c=e6J[CYlbP1
+!s100 ChBF>NCZ>>GKecmCRU`SS1
+R6
+32
+R28
+!i10b 1
+R29
+R40
+R41
+!i113 1
+R11
+R12
+Efrazzle
+Z42 w1460818310
+R25
+R2
+R3
+R0
+Z43 8../vhdl_source/frazzle.vhd
+Z44 F../vhdl_source/frazzle.vhd
+l0
+L5
+VMn@6A^NK`34U[YWgX4FcQ0
+!s100 OMRfm5L56fLoPC27XM=Q[1
+R6
+32
+R28
+!i10b 1
+R29
+Z45 !s90 -reportprogress|300|-work|work|../vhdl_source/frazzle.vhd|
+Z46 !s107 ../vhdl_source/frazzle.vhd|
+!i113 1
+R11
+R12
+Afoo
+R25
+R2
+R3
+DEx4 work 7 frazzle 0 22 Mn@6A^NK`34U[YWgX4FcQ0
+l21
+L12
+VOe7e:XRm0lf[bFbYd9V7B0
+!s100 4TF<MKTRH61?HcKNHP2Fj2
+R6
+32
+R28
+!i10b 1
+R29
+R45
+R46
+!i113 1
+R11
+R12
+Etiming_tb
+Z47 w1513856728
+R25
+R2
+R3
+R0
+Z48 8./timing_tb.vhd
+Z49 F./timing_tb.vhd
+l0
+L6
+VL@^z[i4c<HzTmcRWdMICi3
+!s100 i0OCV]F;HC9lDlL9VDVZH1
+R6
+32
+Z50 !s110 1513856741
+!i10b 1
+Z51 !s108 1513856741.000000
+Z52 !s90 -reportprogress|300|-work|work|./timing_tb.vhd|
+Z53 !s107 ./timing_tb.vhd|
+!i113 1
+R11
+R12
+Atb
+R25
+R2
+R3
+Z54 DEx4 work 9 timing_tb 0 22 L@^z[i4c<HzTmcRWdMICi3
+l35
+L9
+V3CgocV8EFP[V0:>om>QFY0
+!s100 gKKibTF0c^=TzEVW8=3E12
+R6
+32
+R50
+!i10b 1
+R51
+R52
+R53
+!i113 1
+R11
+R12
+Ewumpus
+Z55 w1513738200
+R25
+R2
+R3
+R0
+Z56 8../vhdl_source/wumpus.vhd
+Z57 F../vhdl_source/wumpus.vhd
+l0
+L5
+VKK3=H:iRjc3C`?>g3B4<?0
+!s100 f`iTU7239BEa_C:mz:PXz3
+R6
+32
+R28
+!i10b 1
+R29
+Z58 !s90 -reportprogress|300|-work|work|../vhdl_source/wumpus.vhd|
+Z59 !s107 ../vhdl_source/wumpus.vhd|
+!i113 1
+R11
+R12
+Artl
+R25
+R2
+R3
+DEx4 work 6 wumpus 0 22 KK3=H:iRjc3C`?>g3B4<?0
+l33
+L17
+VV2L=Boa3Hd3H@I7=7^h>N0
+!s100 ^k[7>zQ]Io8Z9eK?PM8`j1
+R6
+32
+R28
+!i10b 1
+R29
+R58
+R59
+!i113 1
+R11
+R12
